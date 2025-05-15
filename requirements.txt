@@ -1,0 +1,8 @@
+fastapi
+gradio
+uvicorn
+transformers
+gtts
+deep-translator
+pillow
+speechrecognition
